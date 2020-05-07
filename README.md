@@ -7,4 +7,4 @@ For example, look up the corresponding country name of the ISO-3186 country code
 strlookup country3d country_name, look("DEU")
 
 
-gif here
+![](example.gif)
