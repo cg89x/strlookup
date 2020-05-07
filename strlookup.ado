@@ -1,4 +1,4 @@
-#*! version 1.0.0  Christian Kontz 07May2020
+*! version 1.0.0  Christian Kontz 07May2020
 program define strlookup, rclass 
 	version 9.1
 
